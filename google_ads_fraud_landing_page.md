@@ -1,5 +1,9 @@
 # GOOGLE CHARGED ME $2,100 FOR FAKE SUBSCRIBERS
 
+📧 **Contact for investigation/legal serious inquiries only:** NoNameDOG@nonamedog.ai
+
+---
+
 ## Then Tried To Hack My Account When I Investigated
 
 ---
@@ -193,7 +197,10 @@ The only way to stop fraud at scale is to expose it.
 ---
 
 **For media inquiries or legal representation:**  
-*[Contact info]*
+
+📧 **NoNameDOG@nonamedog.ai**
+
+**For serious inquiries only:** Evidence review considered for credentialed journalists, licensed attorneys, and law enforcement. Affected advertisers with similar experiences are encouraged to share their stories.
 
 **Evidence package available to:**  
 Credentialed journalists | Licensed attorneys | Law enforcement

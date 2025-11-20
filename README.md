@@ -1,5 +1,9 @@
 # 🚨 GOOGLE ADS FRAUD: THE IMPOSSIBLE NUMBERS
 
+📧 **Contact for investigation/legal serious inquiries only:** NoNameDOG@nonamedog.ai
+
+---
+
 ## Look at This YouTube Channel
 
 ![YouTube Channel Stats - November 19, 2025](youtube_channel_stats.png)
@@ -204,11 +208,7 @@ The only way to stop fraud at scale is to expose it.
 
 📧 **NoNameDOG@nonamedog.ai**
 
-**Evidence package (recordings, screenshots, full documentation) available to:**
-- Credentialed journalists
-- Licensed attorneys
-- Law enforcement officials
-- Other affected advertisers
+**For serious inquiries only:** Evidence review considered for credentialed journalists, licensed attorneys, and law enforcement. Affected advertisers with similar experiences are encouraged to share their stories.
 
 ---
 

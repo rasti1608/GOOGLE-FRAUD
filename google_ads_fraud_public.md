@@ -1,5 +1,9 @@
 # THE GOOGLE ADS FRAUD THAT GOOGLE TRIED TO COVER UP
 
+📧 **Contact for investigation/legal serious inquiries only:** NoNameDOG@nonamedog.ai
+
+---
+
 ## The Impossible Numbers
 
 Look at this screenshot from a YouTube channel:
@@ -339,7 +343,7 @@ This may be bigger than one person's $2,100.
 
 📧 **NoNameDOG@nonamedog.ai**
 
-Full evidence package available upon request to credentialed journalists, attorneys, and investigators.
+**For serious inquiries only:** Evidence review considered for credentialed journalists, licensed attorneys, and law enforcement. Affected advertisers with similar experiences are encouraged to share their stories.
 
 All recordings were made in compliance with applicable recording laws.
 

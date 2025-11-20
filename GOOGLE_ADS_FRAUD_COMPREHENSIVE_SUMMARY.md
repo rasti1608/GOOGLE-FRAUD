@@ -1,5 +1,9 @@
 # 🚨 GOOGLE ADS FRAUD - COMPREHENSIVE CASE SUMMARY 🚨
 
+📧 **Contact for investigation/legal serious inquiries only:** NoNameDOG@nonamedog.ai
+
+---
+
 ## THE SMOKING GUN: UNAUTHORIZED ACCOUNT ACCESS ATTEMPT
 
 **Date:** March 14, 2025, 5:55 PM ET  
@@ -384,11 +388,7 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 
 📧 **NoNameDOG@nonamedog.ai**
 
-**Evidence package (recordings, screenshots, full documentation) available to:**
-- Credentialed journalists
-- Licensed attorneys
-- Law enforcement officials
-- Other affected advertisers
+**For serious inquiries only:** Evidence review considered for credentialed journalists, licensed attorneys, and law enforcement. Affected advertisers with similar experiences are encouraged to share their stories.
 
 ---
 
