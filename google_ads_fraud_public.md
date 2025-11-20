@@ -23,7 +23,7 @@ In March 2025, a content creator paid Google Ads **$2,100** to promote their You
 
 Google Ads reported the campaign as a massive success:
 - **33,448 subscribers gained**
-- **78% conversion rate** (industry standard is 8-12%)
+- **78% conversion rate** (industry standard is 0.5-3%, typical is 1%)
 - **"Outstanding performance"** according to their metrics
 
 But there was a problem.
@@ -75,9 +75,9 @@ The overall campaign reported:
 - **32,224 conversions**
 - **78.36% conversion rate**
 
-Google's own documentation states that **8-12% is normal** (with 12% being considered "high-end").
+Industry benchmarks from multiple 2024-2025 reports show that **0.5-3% is normal** for YouTube subscriber conversions (with 1% being typical and 3% considered excellent).
 
-This campaign allegedly achieved **6.5x the highest normal rate**.
+This campaign allegedly achieved **26x to 156x the industry standard rate**.
 
 ### 3. SUBSCRIBERS WITHOUT VIEWS
 - **26,431 "earned subscribers"** (people who subscribed after seeing the ad)
@@ -241,9 +241,9 @@ You can't subscribe without viewing. So where did these subscribers come from?
 
 You can't convert without clicking first. This violates basic cause and effect.
 
-### 3. How does a campaign achieve a 78% conversion rate when 8-12% is normal?
+### 3. How does a campaign achieve a 78% conversion rate when 0.5-3% is normal?
 
-What makes this campaign 6.5x more effective than the industry's best performers?
+What makes this campaign 26-156x more effective than the industry's standard performers?
 
 ### 4. Why did all engagement stop the moment the campaign ended?
 

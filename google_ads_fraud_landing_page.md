@@ -41,7 +41,7 @@ So how does a channel have **3.5x MORE subscribers than views?**
 ## The Numbers Don't Work
 
 **My Campaign Results (Google Ads reported):**
-- 78% conversion rate *(normal is 8-12%)*
+- 78% conversion rate *(normal is 0.5-3%, typical is 1%)*
 - 3,620 conversions from 3,550 clicks *(more conversions than clicks = impossible)*
 - 26,431 subscribers but only 1,939 video views *(13 subs per view = impossible)*
 

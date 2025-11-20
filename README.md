@@ -49,7 +49,7 @@ When I started documenting this fraud and contacting Google support:
 **March 2025:**
 - Paid Google Ads **$2,100** to promote my YouTube channel
 - Google reported **33,448 "successful conversions"** (subscribers)
-- Campaign showed **78% conversion rate** (industry standard is 8-12%)
+- Campaign showed **78% conversion rate** (industry standard is 0.5-3%, typical is 1%)
 
 **The Reality:**
 - Channel has only **9,145 total views** in 10 months
@@ -223,7 +223,7 @@ The only way to stop fraud at scale is to expose it.
 
 **You can't have more conversions than clicks.**
 
-**You can't have 78% conversion rates when 12% is excellent.**
+**You can't have 78% conversion rates when 1-3% is normal and 3% is considered excellent.**
 
 **And you definitely can't try to hack someone's account when they question your fraudulent metrics.**
 
