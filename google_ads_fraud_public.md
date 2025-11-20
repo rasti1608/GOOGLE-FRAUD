@@ -182,6 +182,38 @@ When the creator asked why Google needed access to their account, the representa
 
 ---
 
+## Then Google Went Silent
+
+**After the unauthorized access attempt:**
+
+Within days of blocking the login attempt, communication from Google changed completely:
+
+**Immediate aftermath:**
+- Follow-up emails went unanswered
+- Attempts to reply to support threads were **blocked with "forbidden to reply" errors**
+- All communication channels went dark
+
+**One week later:**
+- Received a generic case closure email
+- **No explanation provided**
+- **No investigation results**
+- **No resolution offered**
+- **No refund**
+- **No acknowledgment of the fraudulent metrics**
+- **No mention of the unauthorized access attempt**
+
+**The message was clear:** Case closed. Go away.
+
+After attempting to break into the account during an active fraud investigation, Google simply:
+1. Stopped responding
+2. Blocked further communication
+3. Closed the case unilaterally
+4. Provided zero accountability
+
+**This isn't customer service failure. This is systematic suppression.**
+
+---
+
 ## Why This Matters
 
 This isn't just about $2,100 or one YouTube channel.

@@ -100,6 +100,11 @@ I clicked **"No"** because it felt wrong.
 
 **The entire call is recorded. The rep hung up when I questioned it.**
 
+**Then they went silent:**
+- Stopped responding to emails
+- Blocked my replies as "forbidden"  
+- One week later: Case closed with **no explanation, no results, zero accountability**
+
 **This wasn't customer service. This was a cover-up attempt.**
 
 ---

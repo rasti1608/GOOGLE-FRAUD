@@ -42,6 +42,13 @@ When I started documenting this fraud and contacting Google support:
 
 **The entire call is recorded.**
 
+**After the unauthorized access attempt:**
+- Google stopped responding to inquiries
+- Attempts to reply to support emails were **blocked as "forbidden"**
+- After approximately one week of silence: **Case closed with no explanation**
+- No resolution, no refund, no investigation results
+- Just a blank closure email - case dismissed with zero accountability
+
 ---
 
 ## WHAT HAPPENED
@@ -212,6 +219,8 @@ The only way to stop fraud at scale is to expose it.
 | **Feb-Mar 2025** | Google Ads campaign runs ($2,100 spent) |
 | **Mar 10, 2025** | Campaign ends: 33,448 "subscribers" reported |
 | **Mar 14, 2025, 5:55 PM** | **Google attempts unauthorized account access** |
+| **Mar 15-21, 2025** | Support emails blocked as "forbidden to reply" |
+| **~Mar 21, 2025** | **Case closed by Google with no explanation or resolution** |
 | **Mar-Nov 2025** | Channel dies, loses 1,600+ subs, no organic growth |
 | **Nov 19, 2025** | Current stats: 31,800 subs, 9,145 views |
 
