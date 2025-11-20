@@ -6,7 +6,7 @@
 
 **31,800 subscribers | 9,145 views**
 
-### 🔗 **VERIFY IT YOURSELF:** [www.youtube.com/@NoNameDOG_ai_Studio](https://www.youtube.com/@NoNameDOG.ai_Studio)
+### 🔗 **VERIFY IT YOURSELF:** [www.youtube.com/@NoNameDOG.ai_Studio](https://www.youtube.com/@NoNameDOG.ai_Studio)
 
 **These are LIVE numbers from YouTube. Anyone can check them right now.**
 
