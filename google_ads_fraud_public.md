@@ -335,9 +335,9 @@ This may be bigger than one person's $2,100.
 
 ## Contact & Evidence
 
-For media inquiries, legal representation, or if you've experienced similar issues:
+**For media inquiries, legal consultation, or if you've experienced similar fraud:**
 
-*[Contact information would go here]*
+📧 **NoNameDOG@nonamedog.ai**
 
 Full evidence package available upon request to credentialed journalists, attorneys, and investigators.
 

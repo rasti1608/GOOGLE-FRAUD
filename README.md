@@ -200,14 +200,15 @@ The only way to stop fraud at scale is to expose it.
 
 ## CONTACT
 
-**For media inquiries, legal representation, or if you've experienced similar issues:**
+**For media inquiries, legal consultation, or if you've experienced similar fraud:**
 
-*[Your contact information]*
+📧 **NoNameDOG@nonamedog.ai**
 
-**Evidence package available to:**
+**Evidence package (recordings, screenshots, full documentation) available to:**
 - Credentialed journalists
-- Licensed attorneys  
+- Licensed attorneys
 - Law enforcement officials
+- Other affected advertisers
 
 ---
 

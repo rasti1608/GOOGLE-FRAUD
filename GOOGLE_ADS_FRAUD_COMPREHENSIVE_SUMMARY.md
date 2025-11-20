@@ -378,6 +378,20 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 
 ---
 
+## CONTACT
+
+**For media inquiries, legal consultation, or if you've experienced similar fraud:**
+
+📧 **NoNameDOG@nonamedog.ai**
+
+**Evidence package (recordings, screenshots, full documentation) available to:**
+- Credentialed journalists
+- Licensed attorneys
+- Law enforcement officials
+- Other affected advertisers
+
+---
+
 **This is not just about $2,100. This is about a major tech company:**
 1. Running a fraudulent advertising scheme
 2. Attempting to break into your account when caught
