@@ -145,24 +145,99 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 - "Investigating" claims with no timeline
 - Generic responses with no acknowledgment of specific issues
 
-### Phase 5: Case Abandonment & Forced Closure
-**Timeline:** Approximately one week after unauthorized access attempt
-**What Happened:**
-- Google stopped responding to all inquiries
-- Attempts to reply to support emails were **blocked as "forbidden to reply"**
-- After ~1 week of silence: **Case closed unilaterally**
-- Closure email contained **no explanation, no investigation results, no resolution**
-- No refund offered
-- No acknowledgment of the fraudulent metrics
-- No explanation for the unauthorized access attempt
-- **Complete abandonment with zero accountability**
+### Phase 5: SYSTEMATIC COVER-UP & FORCED CASE CLOSURE
 
-**This is systematic suppression:**
-- Fraudulent campaign delivered fake metrics
-- Unauthorized access attempt when caught
-- Communications blocked when questions persisted  
-- Case closed without resolution when cover-up failed
-- **Pattern of deliberate obstruction and abandonment**
+**Timeline:** Approximately one week after unauthorized access attempt (March 14 → March 24, 2025)
+
+#### What Happened - The Complete Cover-Up Sequence:
+
+**STEP 1: Immediate "Damage Control" Team Deployment**
+- **Within hours** of failed unauthorized access attempt, new "special support" representatives suddenly appeared
+- **Riana** (Video Support specialist) - First contact Saturday, March 15, 2025, 10:41 PM
+- **Elreen** - Covering while Riana "out of office"
+- **Hila** (Senior agent, Video team) - Final stage before closure
+- All claiming to be "senior specialists" personally handling the case
+
+**STEP 2: Late-Night "We're Here to Help" Emails (Saturday 2 AM)**
+**March 15, 2025 - After Unauthorized Access Failure:**
+- Rasti sends his "Final Opportunity for Amicable Resolution" email at 10:41 PM Saturday
+- Google responds with promises of investigation
+- Riana: *"I have compiled all of your inquiries regarding conversions, methodologies, and insights. I have also consulted this matter to our broader team for further investigation"*
+- Promised update by: **Monday, March 17, 2025 at 3:00 PM (GMT+8)**
+
+**STEP 3: THE TRAP - Communication Blocking Begins**
+**Critical Evidence:**
+- Rasti attempts to reply to ads-support@google.com emails
+- **Messages BLOCKED as "forbidden to reply"**
+- Screenshot shows: *"Your message to ads-support@cases.gmrservice.ext.google.com has been blocked"*
+- **Google blocked replies to their own support emails**
+- This created the illusion that Rasti wasn't responding
+
+**STEP 4: Multiple "Still Investigating" Stall Emails**
+**March 17-20, 2025:**
+- Elreen (covering for Riana): *"We'll send another email as soon as we have an update or within 24 hours"*
+- Riana: *"We really appreciate your patience...Due to the complexity of the issue, our investigation is still ongoing"*
+- Riana again: *"We will send another update once we hear back from them within 24 hours"*
+- Hila (new agent): *"Our Eng team are still looking into this. I will keep you updated as soon as I have news/updates to share"*
+- Hila again: *"I wanted to keep you updated that our Engineering team are still looking into this matter"*
+
+**STEP 5: The Setup - "Have You Been Receiving Our Emails?"**
+**March 21-22, 2025:**
+- Hila: *"I've not heard back from you in a while"*
+- Hila: *"While our Eng are working to provide clarity on this issue, can you please let me know if you are receiving my emails?"*
+- **This is the setup** - They BLOCKED his ability to reply, then asked if he's receiving emails
+
+**STEP 6: The Forced Closure**
+**March 24, 2025:**
+- Hila: *"I wanted to first notify you that our Engineering team are still looking into this, investigating to help explain and provide answers to the questions you raised"*
+- Hila: *"In the meantime I've not received any reply from you, and so will proceed with closing out this ticket"*
+- Hila: *"That said, please always feel free to reach back out with questions and concerns regarding this investigation"*
+
+**CASE CLOSED UNILATERALLY - Zero accountability achieved**
+
+#### The Pattern of Systematic Suppression:
+
+**What Google Did:**
+1. ✅ Attempted unauthorized account access (FAILED - Rasti blocked it)
+2. ✅ Immediately deployed "special support" team (damage control)
+3. ✅ Made promises of investigation and updates
+4. ✅ **BLOCKED victim's ability to reply to support emails**
+5. ✅ Claimed victim "wasn't responding" (gaslighting)
+6. ✅ Closed case unilaterally with ZERO resolution
+7. ✅ No explanation for:
+   - Mathematically impossible metrics
+   - Unauthorized access attempt
+   - Why communications were blocked
+8. ✅ No refund offered
+9. ✅ No acknowledgment of fraudulent metrics
+10. ✅ Complete abandonment with zero accountability
+
+#### Why This Is a Cover-Up, Not Incompetence:
+
+**The sequence proves coordination:**
+- Unauthorized access attempt at 5:55 PM Friday
+- Edge-Support "escalation" email at 5:29 PM (26 minutes BEFORE the access attempt) 
+- New "special" support team appearing immediately after failed access
+- Communication blocking synchronized with "we haven't heard from you" claims
+- Multiple representatives following identical script
+- Engineering team "investigating" for 10+ days with zero findings
+- Forced closure when questioned persistently
+
+**This is not bureaucratic delays - this is active suppression.**
+
+#### The Outcome:
+
+**After spending $2,100+ and documenting clear fraud:**
+- ❌ No explanation provided
+- ❌ No refund offered
+- ❌ No acknowledgment of impossible metrics
+- ❌ No explanation for unauthorized access attempt
+- ❌ No investigation results shared
+- ❌ Case closed with zero resolution
+- ❌ Communications blocked to prevent further inquiry
+- ❌ **Complete abandonment with zero accountability**
+
+**The message sent:** *Google Ads can deliver fraudulent metrics, attempt unauthorized access when caught, block your communications, and face zero consequences.*
 
 ---
 
