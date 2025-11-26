@@ -147,7 +147,7 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 
 ### Phase 5: SYSTEMATIC COVER-UP & FORCED CASE CLOSURE
 
-**Timeline:** Approximately one week after unauthorized access attempt (March 14 → March 24, 2025)
+**Timeline:** Right after, that night, unauthorized access attempt (March 14 → March 24, 2025)
 
 #### What Happened - The Complete Cover-Up Sequence:
 
