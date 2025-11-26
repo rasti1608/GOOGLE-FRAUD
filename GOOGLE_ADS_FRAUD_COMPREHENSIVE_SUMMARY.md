@@ -109,32 +109,62 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 
 ## GOOGLE'S RESPONSE: SYSTEMATIC DEFLECTION & COVER-UP
 
-### Phase 1: Initial Support Deflection
-**Representatives:** Hila, Riana, Banke, Naman (multiple team members)
-**Tactics:**
+### Phase 1: Initial Support Deflection (February 20 - March 13, 2025)
+**Representatives:** Jonnabe Legada, Banke, Naman, Arun (multiple team members across 3+ weeks)
+
+**Timeline:**
+- **February 20, 2025** - First contact with Jonnabe Legada requesting investigation
+- **February 21, 2025** - Urgent follow-up (no response)
+- **February 24, 2025** - Jonnabe calls back, promises answer by February 25
+- **February 25, 2025** - Banke responds, fails to address core issue
+- **February 26, 2025, 1:55 PM** - Banke forwards to "dedicated team" (3-5 business days)
+- **February 26, 2025, 6:17 PM** - Rasti's frustrated response documenting delays
+- **February 27, 2025, 1:39 PM** - Naman provides false explanation (videos are "different")
+- **February 28, 2025, 5:41 PM** - Naman declares issue "out of scope"
+- **March 3, 2025, 4:58 PM** - Banke falsely claims phone number "not reachable"
+- **March 3, 2025, 11:47 PM** - Rasti escalates with proof (screenshots showing ALL ads link to same video)
+- **March 10, 2025, 9:38 AM** - Rasti demands explanation for mathematically impossible conversions
+- **March 11, 2025** - Call from Banke (recorded)
+- **March 12, 2025, 4:47 PM ET** - Call from Arun (recorded)
+- **March 13, 2025, 11:11 AM ET** - Call from "Banshee/Banki" (brief, no substance)
+
+**Deflection Tactics:**
 1. **Blame user behavior** - "It depends on user behavior" (despite mathematical impossibilities)
 2. **Deflect to YouTube** - "This is a YouTube Analytics issue, not Google Ads"
 3. **Contradict own systems** - Claims didn't match what the interface showed
 4. **Refuse technical escalation** - Wouldn't connect to specialists who could explain
 5. **Circular logic** - "Google charges for clicks" then "Google charges for conversions"
+6. **False claims** - Claimed phone was "not reachable" (demonstrably false)
+7. **Identity evasion** - Refused to confirm employment status or compensation structure
+8. **Recording double standard** - Record calls but won't provide copies to customers
 
-### Phase 2: Blocked Communications
-**Timeline:** After persistent questioning about fraud
+### Phase 2: Blocked Communications (March 2025)
+**Timeline:** After persistent questioning about fraud (exact date of blocking visible in screenshots)
+
 **Evidence:**
-- Emails to Google Ads Support flagged as **"DANGEROUS"**
-- Gmail warning: *"Many people marked similar messages as phishing scams"*
-- **Your own emails about the fraud** were being blocked
-- Even emails FROM edge-support@google.com were flagged
-- Systematic suppression of legitimate inquiry
+- Emails to `ads-support@cases.gmrservice.ext.google.com` flagged as **"Message blocked"**
+- System message: *"Your message to ads-support@cases.gmrservice.ext.google.com has been blocked. See technical details below for more information"*
+- Gmail warning also appeared on other Google Ads emails: *"Many people marked similar messages as phishing scams"*
+- **Rasti's own legitimate emails** about the fraud were being blocked
+- Even emails FROM `edge-support@google.com` were flagged
+- Systematic suppression of legitimate customer inquiry
+- Created appearance that Rasti "wasn't responding" when he was actively blocked from responding
 
-### Phase 3: Unauthorized Access Attempt
-**Date:** March 14, 2025, 5:55 PM ET
+### Phase 3: Unauthorized Access Attempt (March 14, 2025)
+**Precise Timeline:**
+- **5:29 PM** - Edge-Support (Henry) sends email: "I have escalated to our dedicated support specialists. Please standby for updates."
+- **5:55 PM** (26 minutes later) - Phone call from (404) 978-8978 (Google's official Ads support line)
+- **5:55 PM** - Deceptive security prompt sent to phone during call
+- **5:55 PM** - Rasti clicks "No" - blocking the access attempt
+- **5:55 PM** - Immediate confirmation: "Login Attempt Stopped - You prevented an attempt to sign in to your account"
+- **5:55 PM** - Representative immediately hangs up when access denied
+
 **Purpose:** Likely to:
-- Delete evidence of fraud
-- Alter campaign data
-- Monitor your investigation
-- Create plausible deniability
-- Lock you out of account
+- Delete evidence of fraud from account
+- Alter campaign data to hide impossible metrics
+- Monitor ongoing investigation activities
+- Create plausible deniability ("technical issue")
+- Lock account to prevent further documentation
 
 ### Phase 4: Edge-Support "Escalation" (Stalling Tactic)
 **New team:** Edge-Support
@@ -147,83 +177,183 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 
 ### Phase 5: SYSTEMATIC COVER-UP & FORCED CASE CLOSURE
 
-**Timeline:** Right after, that night, unauthorized access attempt (March 14 → March 24, 2025)
+**Timeline:** March 13 → April 3, 2025 (21 days of orchestrated suppression)
 
-#### What Happened - The Complete Cover-Up Sequence:
+#### Complete Timeline with Exact Timestamps:
 
-**STEP 1: Immediate "Damage Control" Team Deployment**
-- **Within hours** of failed unauthorized access attempt, new "special support" representatives suddenly appeared
-- **Riana** (Video Support specialist) - First contact Saturday, March 15, 2025, 10:41 PM
-- **Elreen** - Covering while Riana "out of office"
-- **Hila** (Senior agent, Video team) - Final stage before closure
-- All claiming to be "senior specialists" personally handling the case
-
-**STEP 2: Late-Night "We're Here to Help" Emails (Saturday 2 AM)**
-**March 15, 2025 - After Unauthorized Access Failure:**
-- Rasti sends his "Final Opportunity for Amicable Resolution" email at 10:41 PM Saturday
-- Google responds with promises of investigation
-- Riana: *"I have compiled all of your inquiries regarding conversions, methodologies, and insights. I have also consulted this matter to our broader team for further investigation"*
-- Promised update by: **Monday, March 17, 2025 at 3:00 PM (GMT+8)**
-
-**STEP 3: THE TRAP - Communication Blocking Begins**
-**Critical Evidence:**
-- Rasti attempts to reply to ads-support@google.com emails
-- **Messages BLOCKED as "forbidden to reply"**
+**MARCH 13, 2025 - Communication Blocking Begins (BEFORE Unauthorized Access)**
+- **Thursday, March 13, 2025, 3:09 PM ET** - Your reply to ads-support@google.com **BLOCKED as "forbidden to reply"**
 - Screenshot shows: *"Your message to ads-support@cases.gmrservice.ext.google.com has been blocked"*
-- **Google blocked replies to their own support emails**
-- This created the illusion that Rasti wasn't responding
+- **This was BEFORE the unauthorized access attempt** - they were already suppressing communications
 
-**STEP 4: Multiple "Still Investigating" Stall Emails**
-**March 17-20, 2025:**
-- Elreen (covering for Riana): *"We'll send another email as soon as we have an update or within 24 hours"*
-- Riana: *"We really appreciate your patience...Due to the complexity of the issue, our investigation is still ongoing"*
-- Riana again: *"We will send another update once we hear back from them within 24 hours"*
-- Hila (new agent): *"Our Eng team are still looking into this. I will keep you updated as soon as I have news/updates to share"*
-- Hila again: *"I wanted to keep you updated that our Engineering team are still looking into this matter"*
+**MARCH 13-14, 2025 - Edge-Support "Escalation" Setup**
+- **Thursday, March 13, 2025, 4:42 PM ET** - Edge-Support (Henry) first contact asking for case details
+- **Friday, March 14, 2025, 5:29 PM ET** - Henry: *"I have escalated to our dedicated support specialists. Please standby for updates."*
+- **Friday, March 14, 2025, 5:55 PM ET** (26 minutes later) - Phone call from (404) 978-8978 with deceptive login prompt
+- Rasti blocks the access attempt - Representative immediately hangs up
 
-**STEP 5: The Setup - "Have You Been Receiving Our Emails?"**
-**March 21-22, 2025:**
-- Hila: *"I've not heard back from you in a while"*
-- Hila: *"While our Eng are working to provide clarity on this issue, can you please let me know if you are receiving my emails?"*
-- **This is the setup** - They BLOCKED his ability to reply, then asked if he's receiving emails
+**MARCH 15, 2025 - Immediate "Damage Control" Deployment**
+- **Saturday, March 15, 2025, 2:34 AM ET** - Riana (Video Support specialist) appears
+- Riana: *"My name is Riana, a Video Support specialist reaching out on behalf of my colleagues"*
+- Riana: *"We received your communication and understand your deep frustration. We are truly sorry for the inconvenience this has caused"*
+- Riana: *"To effectively address your concerns, I have compiled all of your inquiries regarding conversions, methodologies, and insights. I have also consulted this matter to our broader team for further investigation"*
+- Riana: *"I will update you again on Monday, Mar 17, 2025 3:00 PM(GMT+8)"*
+- **Note:** This is Saturday at 2:34 AM - just hours after the failed unauthorized access attempt
 
-**STEP 6: The Forced Closure**
-**March 24, 2025:**
-- Hila: *"I wanted to first notify you that our Engineering team are still looking into this, investigating to help explain and provide answers to the questions you raised"*
-- Hila: *"In the meantime I've not received any reply from you, and so will proceed with closing out this ticket"*
-- Hila: *"That said, please always feel free to reach back out with questions and concerns regarding this investigation"*
+**MARCH 17, 2025 - The Stalling Begins & More Blocking**
+- **Monday, March 17, 2025, 2:33 AM ET** - Elreen (covering for Riana)
+  - *"Thank you for waiting. This is Elreen, covering for Riana while she's out of the office"*
+  - *"I know the urgency and importance of this to you. Rest assured that we are collaborating with our wider team and actively working on this"*
+  - *"We'll send another email as soon as we have an update or within 24 hours"*
 
-**CASE CLOSED UNILATERALLY - Zero accountability achieved**
+- **Monday, March 17, 2025, 7:46 PM ET** - Riana returns
+  - *"Good day! We really appreciate your patience and please know that we are actively working on this. Due to the complexity of the issue, our investigation is still ongoing"*
+  - *"We will send another update once we hear back from them within 24 hours"*
 
-#### The Pattern of Systematic Suppression:
+- **Monday, March 17, 2025, 7:49 PM ET** - Your reply attempt **BLOCKED AGAIN** (3 minutes after Riana's email)
+  - *"Your message to ads-support@cases.gmrservice.ext.google.com has been blocked"*
 
-**What Google Did:**
-1. ✅ Attempted unauthorized account access (FAILED - Rasti blocked it)
-2. ✅ Immediately deployed "special support" team (damage control)
-3. ✅ Made promises of investigation and updates
-4. ✅ **BLOCKED victim's ability to reply to support emails**
-5. ✅ Claimed victim "wasn't responding" (gaslighting)
-6. ✅ Closed case unilaterally with ZERO resolution
-7. ✅ No explanation for:
-   - Mathematically impossible metrics
+**MARCH 18, 2025 - Hila Takes Over as "Senior Agent"**
+- **Tuesday, March 18, 2025, 5:04 PM ET** - Hila introduces herself
+  - *"My name is Hila, I'm a senior agent in the Video team. This issue was recently consulted to me, and I and have now taken over this ticket, and will be handling it from here on"*
+  - *"Since this is very longstanding and the thread here is filled with a lot of important information, I want to make sure that we address all the questions and/or concerns that you have"*
+  - *"I have already looped in more specialists to help with making sure we properly address every single aspect of this case, leaving you with all the answers you require. Note that after consulting with mentioned colleagues, we have decided to take this up with our Product and Engineering team, for a thorough investigation on their end as well"*
+  - *"Our teams are actively working to provide you with more answers as soon as possible"*
+  - **This sounds very promising, but watch what happens next...**
+
+**MARCH 23, 2025 - Still Investigating #1**
+- **Sunday, March 23, 2025, 5:26 AM ET** - Hila
+  - *"Thank you for your patience and I hope all is well with you"*
+  - *"Our Eng team are still looking into this"*
+  - *"I will keep you updated as soon as I have news/updates to share"*
+
+**MARCH 30, 2025 - Still Investigating #2 (One Week Later)**
+- **Sunday, March 30, 2025, 6:07 AM ET** - Hila
+  - *"I hope this finds you well"*
+  - *"I wanted to keep you updated that our Engineering team are still looking into this matter"*
+  - *"I'm working on clarifying everything to provide you with a full and thorough explanation on all your questions"*
+
+**APRIL 1, 2025 - The Setup: "Haven't Heard From You"**
+- **Tuesday, April 1, 2025, 4:43 AM ET** - Hila springs the trap
+  - *"I hope this finds you well"*
+  - *"I've not heard back from you in a while"* ← **THE GASLIGHTING**
+  - *"While our Eng are working to provide clarity on this issue, can you please let me know if you are receiving my emails?"*
+  - **Remember: Your replies were BLOCKED on March 13 & March 17. They blocked you, then claimed YOU weren't responding!**
+
+**APRIL 3, 2025 - The Forced Closure**
+- **Thursday, April 3, 2025, 7:17 AM ET** - Hila closes the case
+  - *"I hope all is well with you"*
+  - *"I wanted to first notify you that our Engineering team are still looking into this, investigating to help explain and provide answers to the questions you raised"*
+  - *"In the meantime I've not received any reply from you, and so will proceed with closing out this ticket"*
+  - *"That said, please always feel free to reach back out with questions and concerns regarding this investigation"*
+
+**CASE CLOSED - Zero accountability, zero resolution, zero refund**
+
+---
+
+#### The Timeline Proves This Was Coordinated:
+
+**Pre-Access Attempt:**
+- **March 13, 3:09 PM** - Block victim's communications
+- **March 13, 4:42 PM** - Edge-Support makes contact
+- **March 14, 5:29 PM** - "Escalation" email
+
+**The Attempt:**
+- **March 14, 5:55 PM** - Unauthorized access attempt (26 min after "escalation")
+- Access FAILS - victim blocks it
+
+**Immediate Damage Control:**
+- **March 15, 2:34 AM** - "Special support" team deploys (Sat at 2:34 AM!)
+- Multiple "senior agents" suddenly appear
+- Promises of "thorough investigation"
+
+**The Suppression:**
+- **March 17, 7:49 PM** - Block communications AGAIN
+- **March 17-30** - Three weeks of "still investigating"
+- No actual findings shared
+- No explanation provided
+- No data presented
+
+**The Closure:**
+- **April 1** - "Haven't heard from you" (after blocking replies)
+- **April 3** - Force closure with zero resolution
+
+**21 days from unauthorized access to forced closure**
+**Zero answers provided**
+**Zero accountability**
+**Zero refund**
+
+---
+
+#### What Google Did:**
+#### What Google Did:
+
+**The Complete Suppression Sequence:**
+1. ✅ **March 13, 3:09 PM** - Blocked victim's communications (BEFORE unauthorized access attempt)
+2. ✅ **March 14, 5:55 PM** - Attempted unauthorized account access (FAILED - Rasti blocked it)
+3. ✅ **March 15, 2:34 AM** - Immediately deployed "special support" team (damage control at 2:34 AM on Saturday)
+4. ✅ **March 17** - Made promises of investigation results by specific deadline
+5. ✅ **March 17, 7:49 PM** - **BLOCKED victim's ability to reply to support emails AGAIN**
+6. ✅ **March 17-30** - Sent multiple "still investigating" stall emails with no actual findings
+7. ✅ **April 1** - Claimed victim "wasn't responding" (gaslighting after blocking replies)
+8. ✅ **April 3** - Closed case unilaterally with ZERO resolution
+9. ✅ **No explanation provided for:**
+   - Mathematically impossible metrics (78% conversion rate vs 8-12% industry standard)
+   - More conversions than clicks (3,620 conversions from 3,550 clicks)
+   - 13.6 subscribers per view (26,431 subs from 1,939 views)
    - Unauthorized access attempt
-   - Why communications were blocked
-8. ✅ No refund offered
-9. ✅ No acknowledgment of fraudulent metrics
-10. ✅ Complete abandonment with zero accountability
+   - Why communications were blocked twice
+10. ✅ No refund offered
+11. ✅ No acknowledgment of fraudulent metrics
+12. ✅ **Complete abandonment with zero accountability**
 
 #### Why This Is a Cover-Up, Not Incompetence:
 
-**The sequence proves coordination:**
-- Unauthorized access attempt at 5:55 PM Friday
-- Edge-Support "escalation" email at 5:29 PM (26 minutes BEFORE the access attempt) 
-- New "special" support team appearing immediately after failed access
-- Communication blocking synchronized with "we haven't heard from you" claims
-- Multiple representatives following identical script
-- Engineering team "investigating" for 10+ days with zero findings
-- Forced closure when questioned persistently
+**The precise timeline proves coordination:**
+- Communication blocking started **BEFORE** the unauthorized access attempt (March 13 vs March 14)
+- "Escalation" email sent exactly 26 minutes before unauthorized access attempt
+- "Special support" team deployed at 2:34 AM on a Saturday (hours after failed access)
+- Multiple representatives following identical deflection script over 21 days
+- Communication blocking synchronized perfectly with "we haven't heard from you" claims
+- Promised "Engineering investigation" for 21 days produced zero findings
+- Forced closure exactly when documented evidence made further denial impossible
+
+**This is not bureaucratic delays or technical issues - this is active, coordinated suppression.**
+
+Every step shows planning and coordination between multiple teams to:
+- Suppress communications
+- Create appearance of non-responsiveness
+- Run down the clock with fake "investigations"
+- Close the case without accountability
+
+#### The Outcome After $2,100+ Spent and 21 Days of "Investigation":
+
+**What You Received:**
+- ❌ No explanation for impossible conversion metrics
+- ❌ No explanation for more conversions than clicks
+- ❌ No explanation for 13 subscribers per view
+- ❌ No refund offered
+- ❌ No credit provided
+- ❌ No acknowledgment of fraudulent metrics
+- ❌ No explanation for unauthorized access attempt
+- ❌ No apology
+- ❌ No investigation results shared
+- ❌ Case closed with zero resolution
+- ❌ Communications blocked to prevent further inquiry
+- ❌ **Complete abandonment with zero accountability**
+
+**The message Google sent:** *We can deliver fraudulent metrics, attempt unauthorized access when caught, block your communications when you persist, and face zero consequences.*
+- **March 17-23:** Multiple representatives following identical "still investigating" script
+- **March 20-24:** Engineering team "investigating" for 10+ days with zero findings
+- **March 24:** Forced closure when questioned persistently
 
 **This is not bureaucratic delays - this is active suppression.**
+
+**The timing is too precise to be coincidental:**
+- Edge-Support email arrives 26 minutes BEFORE the unauthorized access attempt
+- "Special team" deployment within hours of failed access
+- Communication blocking timed perfectly with "no response from you" narrative
+- Case closure exactly 10 days after the access attempt they never acknowledged
 
 #### The Outcome:
 
