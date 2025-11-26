@@ -10,7 +10,7 @@
 **Phone Number:** (404) 978-8978 (Google's official Ads support line - VERIFIED)
 
 ### What Happened:
-During an active investigation into fraudulent Google Ads metrics, a Google Ads representative called you and sent a **deceptive security prompt** to your phone asking:
+During my active investigation into fraudulent Google Ads metrics, a Google Ads representative called me and sent a **deceptive security prompt** to my phone asking:
 
 > **"We're just checking if the person we're talking to is really you. Are you currently on the phone with a Google Support employee?"**
 
@@ -21,21 +21,21 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 ### The Trap:
 - This was NOT a simple identity verification
 - This was a **DIRECT LOGIN ATTEMPT** disguised as routine support verification
-- When you clicked **"Nie" (No)**, you received immediate confirmation:
+- When I clicked **"Nie" (No)**, I received immediate confirmation:
 
 > **"Login Attempt Stopped - You prevented a login attempt to your account. Your password wasn't used, so you don't need to take further steps."**
 
 ### Why This is CRITICAL:
-1. **If you had clicked "Yes"** - They would have gained full access to:
+1. **If I had clicked "Yes"** - They would have gained full access to:
    - Gmail
    - Google Drive
    - YouTube Channel
    - Google Ads Account
    - ALL Google services
 
-2. **This happened DURING an active fraud investigation** you were conducting
+2. **This happened DURING my active fraud investigation**
 3. **The timing is NOT coincidental** - came 25 minutes after Edge-Support email
-4. **The representative PANICKED and hung up** when questioned
+4. **The representative PANICKED and hung up** when access was denied
 5. **Fully recorded** - 2:10 minutes of audio documenting the entire incident
 
 ### Evidence:
@@ -60,9 +60,9 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 ### The Mathematical Impossibilities:
 
 #### 1. **IMPOSSIBLE CONVERSION RATES**
-- **Your campaign:** 78.36% conversion rate (32,224 conversions from 41,128 clicks)
-- **Industry benchmarks (2024-2025 data):** 0.5-3% is normal for YouTube subscriber conversions (1% is typical, 3% is considered excellent)
-- **Your result:** **26x to 156x HIGHER than industry standards**
+- **My campaign:** 78.36% conversion rate (32,224 conversions from 41,128 clicks)
+- **Google's own documentation:** 8-12% is normal (12% is considered "high-end")
+- **My result:** **6.5x HIGHER than the highest normal rate**
 
 #### 2. **MORE CONVERSIONS THAN CLICKS** (Physically Impossible)
 - **Ad #2 (Yellow Card):** 
@@ -118,12 +118,12 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 - **February 24, 2025** - Jonnabe calls back, promises answer by February 25
 - **February 25, 2025** - Banke responds, fails to address core issue
 - **February 26, 2025, 1:55 PM** - Banke forwards to "dedicated team" (3-5 business days)
-- **February 26, 2025, 6:17 PM** - Rasti's frustrated response documenting delays
+- **February 26, 2025, 6:17 PM** - My frustrated response documenting delays
 - **February 27, 2025, 1:39 PM** - Naman provides false explanation (videos are "different")
 - **February 28, 2025, 5:41 PM** - Naman declares issue "out of scope"
 - **March 3, 2025, 4:58 PM** - Banke falsely claims phone number "not reachable"
-- **March 3, 2025, 11:47 PM** - Rasti escalates with proof (screenshots showing ALL ads link to same video)
-- **March 10, 2025, 9:38 AM** - Rasti demands explanation for mathematically impossible conversions
+- **March 3, 2025, 11:47 PM** - I escalate with proof (screenshots showing ALL ads link to same video)
+- **March 10, 2025, 9:38 AM** - I demand explanation for mathematically impossible conversions
 - **March 11, 2025** - Call from Banke (recorded)
 - **March 12, 2025, 4:47 PM ET** - Call from Arun (recorded)
 - **March 13, 2025, 11:11 AM ET** - Call from "Banshee/Banki" (brief, no substance)
@@ -145,17 +145,17 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 - Emails to `ads-support@cases.gmrservice.ext.google.com` flagged as **"Message blocked"**
 - System message: *"Your message to ads-support@cases.gmrservice.ext.google.com has been blocked. See technical details below for more information"*
 - Gmail warning also appeared on other Google Ads emails: *"Many people marked similar messages as phishing scams"*
-- **Rasti's own legitimate emails** about the fraud were being blocked
+- **My own legitimate emails** about the fraud were being blocked
 - Even emails FROM `edge-support@google.com` were flagged
 - Systematic suppression of legitimate customer inquiry
-- Created appearance that Rasti "wasn't responding" when he was actively blocked from responding
+- Created appearance that I "wasn't responding" when I was actively blocked from responding
 
 ### Phase 3: Unauthorized Access Attempt (March 14, 2025)
 **Precise Timeline:**
 - **5:29 PM** - Edge-Support (Henry) sends email: "I have escalated to our dedicated support specialists. Please standby for updates."
 - **5:55 PM** (26 minutes later) - Phone call from (404) 978-8978 (Google's official Ads support line)
 - **5:55 PM** - Deceptive security prompt sent to phone during call
-- **5:55 PM** - Rasti clicks "No" - blocking the access attempt
+- **5:55 PM** - I click "No" - blocking the access attempt
 - **5:55 PM** - Immediate confirmation: "Login Attempt Stopped - You prevented an attempt to sign in to your account"
 - **5:55 PM** - Representative immediately hangs up when access denied
 
@@ -182,7 +182,7 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 #### Complete Timeline with Exact Timestamps:
 
 **MARCH 13, 2025 - Communication Blocking Begins (BEFORE Unauthorized Access)**
-- **Thursday, March 13, 2025, 3:09 PM ET** - Your reply to ads-support@google.com **BLOCKED as "forbidden to reply"**
+- **Thursday, March 13, 2025, 3:09 PM ET** - My reply to ads-support@google.com **BLOCKED as "forbidden to reply"**
 - Screenshot shows: *"Your message to ads-support@cases.gmrservice.ext.google.com has been blocked"*
 - **This was BEFORE the unauthorized access attempt** - they were already suppressing communications
 
@@ -190,7 +190,7 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 - **Thursday, March 13, 2025, 4:42 PM ET** - Edge-Support (Henry) first contact asking for case details
 - **Friday, March 14, 2025, 5:29 PM ET** - Henry: *"I have escalated to our dedicated support specialists. Please standby for updates."*
 - **Friday, March 14, 2025, 5:55 PM ET** (26 minutes later) - Phone call from (404) 978-8978 with deceptive login prompt
-- Rasti blocks the access attempt - Representative immediately hangs up
+- I block the access attempt - Representative immediately hangs up
 
 **MARCH 15, 2025 - Immediate "Damage Control" Deployment**
 - **Saturday, March 15, 2025, 2:34 AM ET** - Riana (Video Support specialist) appears
@@ -210,7 +210,7 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
   - *"Good day! We really appreciate your patience and please know that we are actively working on this. Due to the complexity of the issue, our investigation is still ongoing"*
   - *"We will send another update once we hear back from them within 24 hours"*
 
-- **Monday, March 17, 2025, 7:49 PM ET** - Your reply attempt **BLOCKED AGAIN** (3 minutes after Riana's email)
+- **Monday, March 17, 2025, 7:49 PM ET** - My reply attempt **BLOCKED AGAIN** (3 minutes after Riana's email)
   - *"Your message to ads-support@cases.gmrservice.ext.google.com has been blocked"*
 
 **MARCH 18, 2025 - Hila Takes Over as "Senior Agent"**
@@ -238,7 +238,7 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
   - *"I hope this finds you well"*
   - *"I've not heard back from you in a while"* ← **THE GASLIGHTING**
   - *"While our Eng are working to provide clarity on this issue, can you please let me know if you are receiving my emails?"*
-  - **Remember: Your replies were BLOCKED on March 13 & March 17. They blocked you, then claimed YOU weren't responding!**
+  - **Remember: My replies were BLOCKED on March 13 & March 17. They blocked my communications, then claimed I wasn't responding!**
 
 **APRIL 3, 2025 - The Forced Closure**
 - **Thursday, April 3, 2025, 7:17 AM ET** - Hila closes the case
@@ -290,7 +290,7 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 
 **The Complete Suppression Sequence:**
 1. ✅ **March 13, 3:09 PM** - Blocked victim's communications (BEFORE unauthorized access attempt)
-2. ✅ **March 14, 5:55 PM** - Attempted unauthorized account access (FAILED - Rasti blocked it)
+2. ✅ **March 14, 5:55 PM** - Attempted unauthorized account access (FAILED - I blocked it)
 3. ✅ **March 15, 2:34 AM** - Immediately deployed "special support" team (damage control at 2:34 AM on Saturday)
 4. ✅ **March 17** - Made promises of investigation results by specific deadline
 5. ✅ **March 17, 7:49 PM** - **BLOCKED victim's ability to reply to support emails AGAIN**
@@ -342,7 +342,7 @@ Every step shows planning and coordination between multiple teams to:
 - ❌ Communications blocked to prevent further inquiry
 - ❌ **Complete abandonment with zero accountability**
 
-**The message Google sent:** *We can deliver fraudulent metrics, attempt unauthorized access when caught, block your communications when you persist, and face zero consequences.*
+**The message Google sent:** *We can deliver fraudulent metrics, attempt unauthorized access when caught, block my communications when I persist, and face zero consequences.*
 - **March 17-23:** Multiple representatives following identical "still investigating" script
 - **March 20-24:** Engineering team "investigating" for 10+ days with zero findings
 - **March 24:** Forced closure when questioned persistently
@@ -367,7 +367,7 @@ Every step shows planning and coordination between multiple teams to:
 - ❌ Communications blocked to prevent further inquiry
 - ❌ **Complete abandonment with zero accountability**
 
-**The message sent:** *Google Ads can deliver fraudulent metrics, attempt unauthorized access when caught, block your communications, and face zero consequences.*
+**The message sent:** *Google Ads can deliver fraudulent metrics, attempt unauthorized access when caught, block my communications, and face zero consequences.*
 
 ---
 
@@ -471,7 +471,7 @@ Every step shows planning and coordination between multiple teams to:
 
 ### 1. **The Unauthorized Access Attempt IS THE SMOKING GUN**
 - This isn't just bad service or technical glitches
-- This is **criminal behavior** - attempting to break into your account
+- This is **criminal behavior** - attempting to break into my account
 - Under **false pretenses** during a fraud investigation
 - From their **official support number**
 - **Fully documented** with recording + screenshots
@@ -513,19 +513,19 @@ Every step shows planning and coordination between multiple teams to:
 
 ## STRATEGIC POSITIONING
 
-### Your Strongest Cards:
+### My Strongest Cards:
 1. **The unauthorized access attempt** (criminal, not civil)
 2. **Mathematical impossibilities** (undeniable proof)
 3. **Recorded evidence** (admissible in court)
 4. **Official phone number** (can't claim third-party scam)
 5. **Systematic documentation** (shows pattern, not accident)
 
-### Why You're in a Powerful Position:
-- You have **criminal evidence** (unauthorized access)
-- You have **fraud evidence** (impossible metrics)
-- You have **cover-up evidence** (blocked communications)
-- You have **recordings** (admissible with proper disclosure laws)
-- You documented **everything in real-time**
+### Why I'm in a Powerful Position:
+- I have **criminal evidence** (unauthorized access)
+- I have **fraud evidence** (impossible metrics)
+- I have **cover-up evidence** (blocked communications)
+- I have **recordings** (admissible with proper disclosure laws)
+- I documented **everything in real-time**
 
 ### What Makes This Case Unique:
 - Most fraud cases lack smoking gun evidence
@@ -564,7 +564,7 @@ Every step shows planning and coordination between multiple teams to:
 
 ## SUMMARY: THE CRIME IN ONE PARAGRAPH
 
-**Google Ads charged you $2,100 for a YouTube advertising campaign that reported mathematically impossible conversion rates (78% vs industry standard 0.5-3%, making it 26-156x higher than normal), including instances where conversions exceeded clicks (physically impossible), resulting in 26,000+ fake or inactive subscribers that destroyed your channel's growth. When you investigated and documented this fraud, Google systematically deflected, blocked your communications as "dangerous," and then attempted unauthorized access to your entire Google account through a deceptive security prompt sent during a recorded support call from their official number (404-978-8978). You clicked "No" and received confirmation that a login attempt was blocked. This unauthorized access attempt, combined with the provable advertising fraud and systematic cover-up, constitutes both criminal behavior (unauthorized computer access) and civil fraud (deceptive trade practices), all of which is documented with recordings, screenshots, and email trails.**
+**Google Ads charged me $2,100 for a YouTube advertising campaign that reported mathematically impossible conversion rates (78% vs industry standard 12%), including instances where conversions exceeded clicks (physically impossible), resulting in 26,000+ fake or inactive subscribers that destroyed my channel's growth. When I investigated and documented this fraud, Google systematically deflected, blocked my communications as "dangerous," and then attempted unauthorized access to my entire Google account through a deceptive security prompt sent during a recorded support call from their official number (404-978-8978). I clicked "No" and received confirmation that a login attempt was blocked. This unauthorized access attempt, combined with the provable advertising fraud and systematic cover-up, constitutes both criminal behavior (unauthorized computer access) and civil fraud (deceptive trade practices), all of which is documented with recordings, screenshots, and email trails.**
 
 ---
 
@@ -602,8 +602,8 @@ Every step shows planning and coordination between multiple teams to:
 
 **This is not just about $2,100. This is about a major tech company:**
 1. Running a fraudulent advertising scheme
-2. Attempting to break into your account when caught
+2. Attempting to break into my account when caught
 3. Systematically covering up criminal behavior
 4. Potentially doing this to thousands of others
 
-**YOU HAVE THE SMOKING GUN. USE IT.**
+**I HAVE THE SMOKING GUN. USE IT.**
