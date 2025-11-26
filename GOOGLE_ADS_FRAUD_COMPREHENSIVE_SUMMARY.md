@@ -71,10 +71,11 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
   - **This violates basic physics:** A user MUST click before they can convert
 
 #### 3. **EARNED SUBSCRIBERS WITHOUT VIEWS**
-- **Earned Subscribers:** 26,431
-- **Earned Views:** 1,939
+- **Earned Subscribers:** 26,431 (mid-campaign snapshot ~day 10-12, growing at ~2,000/day)
+- **Earned Views:** 1,939 (same mid-campaign measurement)
 - **Ratio:** 13.6 subscribers for every 1 view
 - **Reality:** You cannot subscribe to a channel without viewing content
+- **Timeline:** Started with ~7,000 subs → Mid-campaign: 26,431 → Campaign end (day 17): 33,448 → Today: 31,800 subs but only 9,145 total views
 
 #### 4. **ZERO ORGANIC ENGAGEMENT**
 - **Main video retention:** 8.8% (extremely low)
@@ -94,8 +95,10 @@ During an active investigation into fraudulent Google Ads metrics, a Google Ads 
 - **Ad Views (30s+):** 200,000+
 - **Clicks:** 41,128
 - **Conversions:** 32,224 (78.36% rate)
-- **Earned Subscribers:** 26,431 (64.26% of clickers)
-- **Earned Views:** 1,939 (only 4.72% of subscribers)
+- **Earned Subscribers:** 26,431 (mid-campaign snapshot showing ~2,000/day growth rate)
+- **Earned Views:** 1,939 (only 4.72% of subscribers at that point)
+- **Final Campaign Total:** 33,448 subscribers by day 17
+- **Today (10 months later):** 31,800 subscribers, 9,145 total views = **3.5x MORE subs than views**
 
 **Individual Ad Breakdown:**
 - **Ad #2:** 97.6% conversion rate (10,572 conversions from 10,828 clicks)
